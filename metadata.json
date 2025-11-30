@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Particle Conductor",
+  "description": "An interactive particle system controlled by hand gestures and customized by Gemini AI. Move your hands to influence physics, and describe scenes to generate new visual themes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
